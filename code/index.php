@@ -1,3 +1,3 @@
 <?php
 
-phpinfo();
+require 'binary-search.php';
